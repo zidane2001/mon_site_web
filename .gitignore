@@ -1,2 +1,4 @@
 temp/todo.txt
 temp/*
+*.txt
+*.xml
